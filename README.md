@@ -1,13 +1,14 @@
-## Welcome to GitHub Pages
+## Sangmo Sung
 
-You can use the [editor on GitHub](https://github.com/sangmosung/smsung.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Ubiquitous Networking (UN) Lab.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ph.D. Candidate in the Department of Electronics Convergence Engineering at Hanyang University
 
-### Markdown
+smsung@hanyang.ac.kr
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Interests
 
+UWB based Indoor Positioning system, 5G NR-V2X communication, Artificial intelligence algorithms
 ```markdown
 Syntax highlighted code block
 
