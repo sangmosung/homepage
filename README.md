@@ -8,7 +8,9 @@ smsung@hanyang.ac.kr
 
 ### Research Interests
 
-UWB based Indoor Positioning system, 5G NR-V2X communication, Artificial intelligence algorithms
+UWB based Indoor Positioning system, 5G NR-V2X communication,
+Artificial intelligence algorithms
+
 ```markdown
 Syntax highlighted code block
 
