@@ -15,10 +15,10 @@ Artificial intelligence algorithms
 Syntax highlighted code block
 
 # Naver
-[blog](https://blog.naver.com/sapitquireputat)
+[blog](https://blog.naver.com/sapitquireputat).
 ## Tistory
 ### Lab
-[UN LAB](http://unlab.hanyang.ac.kr/)
+[UN LAB](http://unlab.hanyang.ac.kr).
 
 - Bulleted
 - List
@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Privacy](https://sangmosung.github.io/homepage/privacy) and ![Image](src)
+[Privacy](https://sangmosung.github.io/homepage/privacy). and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
