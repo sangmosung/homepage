@@ -1,4 +1,4 @@
-## Sangmo Sung
+# Sangmo Sung
 
 Ubiquitous Networking (UN) Lab.
 
@@ -6,21 +6,21 @@ Ph.D. Candidate in the Department of Electronics Convergence Engineering at Hany
 
 smsung@hanyang.ac.kr
 
-### Research Interests
+# Research Interests
 
 UWB based Indoor Positioning system, 5G NR-V2X communication,
 Artificial intelligence algorithms
 
-# Naver
+## Naver
 [blog](https://blog.naver.com/sapitquireputat)
 
-# Tistory
+## Tistory
 [TBA]
 
-# Laboratory
+## Laboratory
 [UN LAB](http://unlab.hanyang.ac.kr)
 
-# Publications
+## Publications
 [Sangmo Sung's Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=ko&authuser=1&user=--q2aSkAAAAJ)
 
 
