@@ -11,26 +11,17 @@ smsung@hanyang.ac.kr
 UWB based Indoor Positioning system, 5G NR-V2X communication,
 Artificial intelligence algorithms
 
-Syntax highlighted code block
-
 # Naver
-[blog](https://blog.naver.com/sapitquireputat).
+[blog](https://blog.naver.com/sapitquireputat)
+
 ## Tistory
+[TBA]
+
 ### Lab
-[UN LAB](http://unlab.hanyang.ac.kr).
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Privacy](https://sangmosung.github.io/homepage/privacy). and ![Image](src)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[UN LAB](http://unlab.hanyang.ac.kr)
 
 ### Publications
+[Sangmo Sung's Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=ko&authuser=1&user=--q2aSkAAAAJ)
 
-Sangmo Sung's Google Scholar page
+
+[Privacy](https://sangmosung.github.io/homepage/privacy) and ![Image](src)
