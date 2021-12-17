@@ -11,7 +11,6 @@ smsung@hanyang.ac.kr
 UWB based Indoor Positioning system, 5G NR-V2X communication,
 Artificial intelligence algorithms
 
-```markdown
 Syntax highlighted code block
 
 # Naver
@@ -29,7 +28,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Privacy](https://sangmosung.github.io/homepage/privacy). and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
