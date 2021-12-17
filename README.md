@@ -14,13 +14,13 @@ Artificial intelligence algorithms
 # Naver
 [blog](https://blog.naver.com/sapitquireputat)
 
-## Tistory
+# Tistory
 [TBA]
 
-### Lab
+# Laboratory
 [UN LAB](http://unlab.hanyang.ac.kr)
 
-### Publications
+# Publications
 [Sangmo Sung's Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=ko&authuser=1&user=--q2aSkAAAAJ)
 
 
