@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
+
 title: [Git-homepage]
 description: [since 190301]
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
+theme: jekyll-theme-minimal
