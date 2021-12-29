@@ -24,4 +24,4 @@ Artificial intelligence algorithms
 [Sangmo Sung's Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=ko&authuser=1&user=--q2aSkAAAAJ)
 
 
-[Privacy](https://sangmosung.github.io/homepage/privacy)
+[Privacy](https://sangmosung.github.io/home/privacy)
