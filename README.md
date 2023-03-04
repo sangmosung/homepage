@@ -8,7 +8,7 @@ smsung@hanyang.ac.kr
 
 # Research Interests
 
-UWB based Indoor Positioning system, 5G NR-V2X communication,
+UWB based Real Time Location System(RTLS), 5G NR-V2X communication,
 Artificial intelligence algorithms
 
 ## Naver
