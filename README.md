@@ -8,8 +8,8 @@ smsung@hanyang.ac.kr
 
 # Research Interests
 
-UWB based Real Time Location System(RTLS), 5G NR-V2X communication,
-Artificial intelligence algorithms
+UWB based Real Time Location System(RTLS), 5G NR-V2X communications,
+Artificial intelligence algorithm
 
 ## Laboratory
 [UN LAB](http://unlab.hanyang.ac.kr)
