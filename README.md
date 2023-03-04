@@ -11,14 +11,14 @@ smsung@hanyang.ac.kr
 UWB based Real Time Location System(RTLS), 5G NR-V2X communication,
 Artificial intelligence algorithms
 
+## Laboratory
+[UN LAB](http://unlab.hanyang.ac.kr)
+
 ## Naver
 [blog](https://blog.naver.com/sapitquireputat)
 
 ## Tistory
 [TBA]
-
-## Laboratory
-[UN LAB](http://unlab.hanyang.ac.kr)
 
 ## Publications
 [Sangmo Sung's Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=ko&authuser=1&user=--q2aSkAAAAJ)
