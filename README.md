@@ -30,5 +30,7 @@ Artificial intelligence algorithm
 
 3. Jae-il Jung, **Sangmo Sung**, Woosang Yu, and Junhyung Park. "METHOD AND SYSTEM FOR PROVIDING EMERGENCY NOTIFICATION", KR102392952B1, Korean Intellectual Property Office, Registered in May 2022.
 
+4. Jae-il Jung, **Sangmo Sung**, Jongyeon Kim, and Sangwook Yu. "TIME SYNCHRONIZATION METHOD AND POSITION ESTIMATION METHOD IN UWB LOCALIZATION SYSTEM", KR102520764B1, Korean Intellectual Property Office, Registered in April 2023.
+
 
 [Privacy](https://sangmosung.github.io/home/privacy)
