@@ -33,5 +33,6 @@ Artificial intelligence algorithm
 
 4. Jae-il Jung, **Sangmo Sung**, Jongyeon Kim, and Sangwook Yu. "TIME SYNCHRONIZATION METHOD AND POSITION ESTIMATION METHOD IN UWB LOCALIZATION SYSTEM", KR102520764B1, Korean Intellectual Property Office, Registered in April 2023.
 
+5. Jae-il Jung, Soryoung Jung, and **Sangmo Sung**. "DISTANCE CALIBRATION METHOD FOR UWB POSITIONING", KR102659273B1, Korean Intellectual Property Office, Registered in April 2024.
 
 [Privacy](https://sangmosung.github.io/home/privacy)
