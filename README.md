@@ -19,7 +19,7 @@ Artificial intelligence algorithm
 [blog](https://blog.naver.com/sapitquireputat)
 
 ## Tistory
-[TBA]
+
 
 ## Publications
 [Sangmo Sung's Google Scholar page](https://scholar.google.com/citations?view_op=list_works&hl=ko&authuser=1&user=--q2aSkAAAAJ)
